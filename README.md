@@ -1,6 +1,6 @@
 ### Olá, Inocêncio Cardoso aqui 👋
 
-- 🔭 Desenvolvedor Fullstack
+- 🔭 Scrum MAster & Desenvolvedor Fullstack
 
 <div>
   <a href="https://github.com/inoccard">
@@ -19,7 +19,7 @@
  
 <div> 
   <a href="https://www.youtube.com/channel/UCOKbtr_UAHlAICe_TSdiGoA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/i.c.s.d/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/senhor.dos.sistemas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:inocenciocardoso19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/inocenciocardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
