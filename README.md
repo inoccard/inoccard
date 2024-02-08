@@ -1,6 +1,6 @@
 ### Olá, Inocêncio Cardoso aqui 👋
 
-- 🔭 Scrum Master & Desenvolvedor Fullstack
+- 🔭 Tech Lead  & Software Engineer
 
 <div>
   <a href="https://github.com/inoccard">
